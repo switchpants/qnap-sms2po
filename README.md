@@ -34,7 +34,7 @@ docker compose up --build --detach
 **```http://<host>:8088?phone=@@PhoneNumber@@&text=@@Text@@```**
 * **```SMS server login name```** and **```SMS server login password```** can be left blank
 
-**<host>:8088** is where this container is running - perhaps on the QNAP itself in [Container Station](https://www.qnap.com/en/software/container-station)
+**\<host\>:8088** is where this container is running - perhaps on the QNAP itself in [Container Station](https://www.qnap.com/en/software/container-station)
 
 ## Phone Numbers in Notification Center
 The recipient phone number you configure can be anything - it is ignored when using Pushover
