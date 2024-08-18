@@ -1,0 +1,5 @@
+**/.dockerignore
+**/Dockerfile*
+**/compose.y*ml
+LICENSE
+README.md

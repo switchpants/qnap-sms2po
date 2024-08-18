@@ -1,0 +1,13 @@
+services:
+  sms2po:
+    container_name: qnap-sms2po
+    build:
+      context: .
+    environment:
+      - PUSHOVER_TOKEN=yourpushovertoken
+      - PUSHOVER_USER=yourpushoveruserkey
+#      - PUSHOVER_TITLE=QNAP NAS
+#      - PUSHOVER_SOUND=none
+#      - PUSHOVER_PRIO=0
+    ports:
+      - 8088:8088
