@@ -41,7 +41,7 @@ The recipient phone number you configure can be anything - it is ignored when us
 
 ## Support
 
-You are on your own, but I occasionally lurk in the [QNAP forums](https://forum.qnap.com/") 
+You are on your own, but I occasionally lurk in the [QNAP forums](https://forum.qnap.com/) 
 
 ## License
 
