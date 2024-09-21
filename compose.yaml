@@ -5,7 +5,7 @@ services:
       context: .
     environment:
       - PUSHOVER_TOKEN=yourpushovertoken
-      - PUSHOVER_USER=yourpushoverkey
+      - PUSHOVER_USER=yourpushoveruserkey
 #      - PUSHOVER_TITLE=QNAP NAS
 #      - PUSHOVER_SOUND=none
 #      - PUSHOVER_PRIO=0
